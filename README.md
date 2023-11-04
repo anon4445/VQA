@@ -18,17 +18,4 @@ Before running the application, make sure you have the necessary libraries insta
 
 ```bash
 pip install streamlit transformers pillow
-## Usage
 
-1. Run the application using the following command:
-
-```bash
-
-- streamlit run app.py
-- The application opens in your web browser.
-
-- Upload an image by clicking on "Choose an image..."
-
-- Input a question related to the uploaded image and press "Enter."
-
-- The application generates an answer based on the image content and displays it alongside the question and image.
