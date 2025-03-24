@@ -14,6 +14,7 @@ This project is a Python web application that utilizes Streamlit, Hugging Face T
 
 ## Prerequisites
 anon
+anon 2
 Before running the application, make sure you have the necessary libraries installed. You can install them using the following:
 
 ```bash
